@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "AoC"
+version = "0.1.0"
+description = ""
+authors = ["Technical Admin <technical-admin@cit.io>"]
+
+[tool.poetry.dependencies]
+Python = "~3.9.10"
+pandas = "1.4.4"
